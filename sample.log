@@ -1,0 +1,15 @@
+2015-09-24 19:39:01 install libportsmf0:amd64 <none> 0.1~svn20101010-4
+2015-09-24 19:39:02 install libsbsms10:amd64 <none> 2.0.2-1
+2015-09-24 19:39:03 install libsoxr0:amd64 <none> 0.1.1-1
+2015-09-24 19:39:04 install libwxbase3.0-0:amd64 <none> 3.0.2-1+b1
+2015-09-24 19:39:05 install libwxgtk3.0-0:amd64 <none> 3.0.2-1+b1
+2015-09-24 19:39:07 install libvamp-hostsdk3:amd64 <none> 1:2.5-dmo6
+2015-09-24 19:39:08 install audacity-data:all <none> 2.0.6-2
+2015-09-24 19:39:10 install audacity:amd64 <none> 2.0.6-2
+2015-09-25 11:47:36 install hardinfo:amd64 <none> 0.5.1-1.4
+2015-09-25 12:14:35 install libstdc++6:i386 <none> 4.9.2-10
+2015-09-25 12:14:36 install libudev1:i386 <none> 215+12+betsy
+2015-09-25 12:14:37 install libtinfo5:i386 <none> 5.9+20140913-1+b1
+2015-09-25 12:14:38 install libbsd0:i386 <none> 0.7.0-2
+2015-09-25 12:14:39 install libedit2:i386 <none> 3.1-20140620-2
+2015-09-25 12:14:40 install nvidia-installer-cleanup:amd64 <none> 20141201+1
